@@ -1,0 +1,18 @@
+@media(max-width:500px){
+    .cartao{
+        width: 300px;
+        box-shadow: 8px 8px;
+    }
+
+    .cartao .ilustracao img{
+        width: 280px;
+    }
+
+    .cartao .titulo{
+        font-size: 20px;
+    }
+
+    .cartao .descricao{
+        font-size: 14px;
+    }
+}
