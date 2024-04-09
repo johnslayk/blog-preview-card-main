@@ -23,7 +23,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Links
 
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [Blog Preview Card](https://johnslayk.github.io/blog-preview-card-main/)
 
 
 ## My process
@@ -38,10 +38,10 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### What I learned
 
-Separating into topics:
-Interact when the mouse cursor is over an object.
-Shade a box
-Improve responsiveness according to screen size.
+- Separating into topics:
+- Interact when the mouse cursor is over an object.
+- Shade a box
+- Improve responsiveness according to screen size.
 
 
 ### Continued development
